@@ -1,1 +1,1 @@
-![alt text](https://github.com/yenniferTobon/chat-telegram-Nodejs-express-/blob/master/Image/imagenEstructuraProyecto.png/to/imagenEstructuraProyecto.png)
+![alt text](https://github.com/yenniferTobon/chat-telegram-Nodejs-express-/blob/master/Image/imagenEstructuraProyecto.png)
